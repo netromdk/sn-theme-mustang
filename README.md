@@ -1,7 +1,8 @@
 # Mustang - Standard Notes theme
 
-A dark warm-gray Standard Notes theme ported from the Mustang color scheme,
-originally created for Vim by Henrique C. Alves and later ported to Emacs.
+A dark warm-gray Standard Notes theme ported from the Mustang color scheme, originally created for
+Vim by Henrique C. Alves and later
+[ported to Emacs](https://github.com/netromdk/.emacs.d/blob/master/themes/mustang-netrom-theme.el).
 
 ## Color palette
 
