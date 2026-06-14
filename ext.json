@@ -1,0 +1,20 @@
+{
+  "identifier": "com.netrom.sn-theme-mustang",
+  "name": "Mustang",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "1.0.0",
+  "description": "A dark warm-gray theme for Standard Notes, ported from the Mustang color scheme.",
+  "url": "https://cdn.jsdelivr.net/gh/netromdk/sn-theme-mustang@v1.0.0/dist/dist.min.css",
+  "download_url": "https://github.com/netromdk/sn-theme-mustang/archive/v1.0.0.zip",
+  "marketing_url": "https://github.com/netromdk/sn-theme-mustang",
+  "latest_url": "https://cdn.jsdelivr.net/gh/netromdk/sn-theme-mustang@master/ext.json",
+  "thumbnail_url": "",
+  "dock_icon": {
+    "type": "circle",
+    "background_color": "#ff9800",
+    "foreground_color": "#ff9800",
+    "border_color": "#ff9800"
+  },
+  "isDark": true
+}
